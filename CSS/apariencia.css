@@ -1,0 +1,64 @@
+.tg {
+    border-collapse: collapse;
+    border-color: #93a1a1;
+    border-spacing: 0;
+    text-align: center;
+}
+
+.tg td {
+    background-color: #fdf6e3;
+    border-color: #93a1a1;
+    border-style: solid;
+    border-width: 1px;
+    color: #002b36;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+    text-align: center;
+}
+
+.tg th {
+    background-color: #657b83;
+    border-color: #93a1a1;
+    border-style: solid;
+    border-width: 1px;
+    color: #fdf6e3;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+    text-align: center;
+}
+
+.tg .tg-73oq {
+    border-color: #000000;
+    text-align: left;
+    vertical-align: top;
+    text-align: center;
+}
+
+img {
+    width: 65px;
+    height: 65px;
+}
+
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-image: url(https://s1.eestatic.com/2019/07/18/actualidad/Actualidad_414720752_129260111_1024x576.jpg);
+}
+
+body {
+    margin: 3.5%;
+    text-align: center;
+}
+
+div {
+    margin: auto;
+}
